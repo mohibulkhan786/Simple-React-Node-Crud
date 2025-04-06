@@ -215,12 +215,12 @@ npm start
 
 - ![Home page URL](http://localhost:3000)
 
-- ![Home page](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/home-page.png)
+![Home page](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/home-page.png)
 
 
 
 - Make sure MongoDB is running in the background
 
-- ![MongoDB-Databse](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/mongo-db.png)
+ ![MongoDB-Databse](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/mongo-db.png)
 
 
