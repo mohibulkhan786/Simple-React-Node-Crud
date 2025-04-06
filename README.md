@@ -212,10 +212,10 @@ node server.js
 cd frontend
 npm start
 ````
-- Home page URL
-- [Home page URL](http://localhost:3000)
 
- ![Home page](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/home-page.png)
+- ![Home page URL](http://localhost:3000)
+
+- ![Home page](https://github.com/mohibulkhan786/Simple-React-Node-Crud/blob/main/home-page.png)
 
 
 
